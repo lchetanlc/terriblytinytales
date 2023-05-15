@@ -1,4 +1,5 @@
 # Terribly Tiny Tales Assessment
+##### Live Demo : https://triblytinytalesassessment.netlify.app/
 This is a React application that displays a simple word frequency analysis
 
 The code imports the necessary dependencies, including React, useState, useEffect, react-chartjs-2, chart.js/auto, and the CSS file. The App component is defined, which serves as the main component for the application. Inside the App component, there is a state variable called **showGraph**, which determines whether to display the graph or the submit page.
